@@ -15,3 +15,7 @@ This project presents an **interactive crime analysis dashboard** that enables u
  - Crime Trend Analysis – Users can filter crimes by type, time of day, and location.  
  - Data-Driven Decision Making – Insights generated can inform law enforcement strategies and urban safety improvements.
 
+## How to use the Interative Dashboard:
+#### Step1: Load the Dashboard
+Open 'Interactive_Dashboard_Sankey_Diagram' folder in the GitHub and then download all the files inside and crime2023.csv as well. Furthermore, open Bokeh_matplotlib_sankey_dashboard.py file and run it. Once loaded, Dashboard can generate prperly.
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/Interactive_dashboard.png)
