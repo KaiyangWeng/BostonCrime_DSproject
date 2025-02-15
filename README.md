@@ -1,8 +1,8 @@
 # BostonCrime_DSproject
 #### Geographic Crime Analysis (Boston)
-
-## Problem  
+ 
 Boston, like many metropolitan cities, experiences varying crime rates across different neighborhoods. Understanding these patterns can help law enforcement agencies allocate resources efficiently and perform city planning decision makings. However, raw crime data is often overwhelming and difficult to interpret. A **visual, interactive dashboard** is needed to make sense of this data.
+
 ## Introduction:  
 This project presents an **interactive crime analysis dashboard** that enables users to:
 - Analyze the frequency and patterns of various types of crimes.
@@ -52,3 +52,9 @@ The Crime Table displays hourly crime counts, helping identify peak crime times.
  - **crime_count** column: Total crimes per hour
 
 ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/crime_table.png)
+
+## Geographic Crime Analysis in Jupyter Notebooks
+The Jupyter notebooks within the codes folder in this project provide a geographic and statistical analysis of Boston crime data using GeoPandas and Matplotlib. They include visualizations of crime hotspots, identifying the top five most frequent crimes and mapping high-crime streets and districts in the dataframe. Through data filtering and aggregation, the notebooks highlight patterns in crime occurrences, offering insights into location-based trends. 
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/crime_districts.png)
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/crime_streets.png)
+
