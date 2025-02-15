@@ -58,3 +58,8 @@ The Jupyter notebooks within the codes folder in this project provide a geograph
 ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/crime_districts.png)
 ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/crime_streets.png)
 
+## Geopandas and Geographic Analysis
+The Geopandas library was used in this project to analyze and visualize crime data geographically, and eventually labeled the target street in the map of Boston. By importing shapefiles and crime2023 data, we plotted the distribution of crimes across different Boston streets and districts. Key analyses include identifying hotspots for violent crimes, mapping the top 5 crime locations, and visualizing shooting-related incidents. The integration of Geopandas enabled the project to highlight high-risk areas, which can be useful for law enforcement and policy-making. 
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/Geopanda1.png)
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/Geopanda2.png)
+
