@@ -18,4 +18,10 @@ This project presents an **interactive crime analysis dashboard** that enables u
 ## How to use the Interative Dashboard:
 #### Step1: Load the Dashboard
 Open 'Interactive_Dashboard_Sankey_Diagram' folder in the GitHub and then download all the files inside and crime2023.csv as well. Furthermore, open Bokeh_matplotlib_sankey_dashboard.py file and run it. Once loaded, Dashboard can generate prperly.
+
 ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/Interactive_dashboard.png)
+
+#### Step2: Select Crime Type & Min Occurence:
+Use the Search Menu to select a specific offense and adjust the min_num slider to change the visualizations and tables, which can be used to analyze crime frequency by hour.
+ - The searchable visualization and table will update dynamically with relevant crime statistics.
+ ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/offense_select.png)
