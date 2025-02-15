@@ -24,4 +24,31 @@ Open 'Interactive_Dashboard_Sankey_Diagram' folder in the GitHub and then downlo
 #### Step2: Select Crime Type & Min Occurence:
 Use the Search Menu to select a specific offense and adjust the min_num slider to change the visualizations and tables, which can be used to analyze crime frequency by hour.
  - The searchable visualization and table will update dynamically with relevant crime statistics.
+
  ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/offense_select.png)
+ 
+###Step 3: Crime Association Analysis:
+ - This section highlights correlations between different crime types, number of crime, and time periods.
+ - Use interactive charts to filter data and explore relationships dynamically.
+
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/Associations.png)
+
+### Step 4: Sankey Diagram (Crime Flow Analysis):
+ - The Sankey Diagram visually represents how different crimes change across different time periods.
+ - It helps us to understand the distribution of different between crime type and hour.
+ - Users can change the variables in the Search menu to see the changes between different Sankey Diagrams.
+
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/Interactive_dashboard.png)
+
+### Step 5: Visualization of Crime Data:
+This dashboard provides two ways to explore crime data visually: 
+ - View an interactive map that highlights the distribution different a specific crime type and hours across Boston.
+
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/visualization.png)
+
+### Step 6: Crime Data Table:
+The Crime Table displays hourly crime counts, helping identify peak crime times. 
+ - **HOUR** column: Crime occurences by hour
+ - **crime_count## column: Total crimes per hour
+
+![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/crime_table.png)
