@@ -1,9 +1,8 @@
 # BostonCrime_DSproject
-##### Geographic Crime Analysis (Boston)
+#### Geographic Crime Analysis (Boston)
 
 ## Problem  
 Boston, like many metropolitan cities, experiences varying crime rates across different neighborhoods. Understanding these patterns can help law enforcement agencies allocate resources efficiently and perform city planning decision makings. However, raw crime data is often overwhelming and difficult to interpret. A **visual, interactive dashboard** is needed to make sense of this data.
-
 ## Introduction:  
 This project presents an **interactive crime analysis dashboard** that enables users to:
 - Analyze the frequency and patterns of various types of crimes.
