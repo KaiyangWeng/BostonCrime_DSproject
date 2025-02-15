@@ -27,7 +27,7 @@ Use the Search Menu to select a specific offense and adjust the min_num slider t
 
  ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/offense_select.png)
  
-###Step 3: Crime Association Analysis:
+### Step 3: Crime Association Analysis:
  - This section highlights correlations between different crime types, number of crime, and time periods.
  - Use interactive charts to filter data and explore relationships dynamically.
 
@@ -49,6 +49,6 @@ This dashboard provides two ways to explore crime data visually:
 ### Step 6: Crime Data Table:
 The Crime Table displays hourly crime counts, helping identify peak crime times. 
  - **HOUR** column: Crime occurences by hour
- - **crime_count## column: Total crimes per hour
+ - **crime_count** column: Total crimes per hour
 
 ![Dashboard Preview](https://github.com/KaiyangWeng/BostonCrime_DSproject/blob/main/plots/crime_table.png)
